@@ -77,7 +77,7 @@
 
 작성자 : SysAI Lab 함규식
 
-Email: gsham@eud.hanbat.ac.kr
+Email: gsham@edu.hanbat.ac.kr
 
 Phone: 010-9946-9297
 
