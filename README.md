@@ -37,10 +37,13 @@
    <br>
    한국어는 안됨
 3. Jetson Nano의 전원을 켜고 터미널을 이용하여 포크하여 만든 Git hub repository를 clone 한다.
-4. Jetson Nano의 네트워크를 확인한다(Wifi IP 번호 확인 : xxx.xxx.xxx.xxx)
-5. PC에서 http://(확인한 IP):8888 을 이용하여 Jupyter 노트북에 접속한다(기본 세팅)
-6. 비밀번호는 yahboom 으로 Jetbot의 비밀번호와 동일함
-7. Jupyter 노트북에 파일 탐색기를 활용하여 자신이 clone한 디렉토리에 접근 후 프로젝트 진행
+
+### Jetson Nano 원격 실습 준비
+
+1. Jetson Nano의 네트워크를 확인한다(Wifi IP 번호 확인 : xxx.xxx.xxx.xxx)
+2. PC에서 http://(확인한 IP):8888 을 이용하여 Jupyter 노트북에 접속한다(기본 세팅)
+3. 비밀번호는 yahboom 으로 Jetbot의 비밀번호와 동일함
+4. Jupyter 노트북에 파일 탐색기를 활용하여 자신이 clone한 디렉토리에 접근 후 프로젝트 진행
 
 ### 프로젝트 실습 및 개발 방법
 
