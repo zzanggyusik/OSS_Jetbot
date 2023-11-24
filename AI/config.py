@@ -1,8 +1,8 @@
-class DatasetConfig():
+class Base_line_DatasetConfig():
     TASK = 'sign'
     CATEGORIES = ['like', 'dislike', 'stop']
 
-    import random
+import random
 from datetime import datetime
 import tensorflow as tf
 import os
